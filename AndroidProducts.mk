@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_rosy.mk
+    $(LOCAL_DIR)/bootleg_rosy.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_rosy-userdebug \
-    spark_rosy-eng
+    bootleg_rosy-userdebug \
+    bootleg_rosy-eng
